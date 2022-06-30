@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muthukrishnan r
+- 👋 Hi, I’m Muthukrishnan R
 - 👀 I’m interested in Techno functional roles in Cloud, Ansible, Terraform and Kubernets with AWS/Azure/GCP Cloud administrations & Linux administration
 - 🌱 I’m currently learning Terraform & Kubernets in depth
 - 💞️ I’m looking to collaborate on Cloud/Unix Chellenge
